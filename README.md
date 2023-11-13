@@ -1,6 +1,6 @@
 # Project Scope Document: Educational Concept Animation
-## Project Overview:
-The primary objective of this project is to create a captivating and informative animation that explores a specific educational concept. The animation will serve as an educational tool, providing an engaging visual representation to enhance the learning experience for the target audience.
+## Step 1:
+I've built a model that gets the command as the input text and a square in considered to do the respective animations..
 ### code:
 ```py
 import pygame
@@ -107,19 +107,20 @@ while True:
     clock.tick(60)
 ```
 ### output:
-
+### initial screen:
 ![Local Image](1screen.jpg)
 
-
+### Giving the command: color
 ![Local Image](c2.jpg)
 
-
+### Giving the command: up
 ![Local Image](cu.jpg)
 
-
+### Giving the command: down
 ![Local Image](cd.jpg)
 
-
+### Giving the command: left
 ![Local Image](cl.jpg)
 
+### Giving the command: right
 ![Local Image](cr.jpg)

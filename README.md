@@ -108,4 +108,18 @@ while True:
 ```
 ### output:
 
-![Local Image](cr2)
+![Local Image](1screen.jpg)
+
+
+![Local Image](c2.jpg)
+
+
+![Local Image](cu.jpg)
+
+
+![Local Image](cd.jpg)
+
+
+![Local Image](cl.jpg)
+
+![Local Image](cr.jpg)

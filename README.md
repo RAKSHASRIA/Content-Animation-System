@@ -2,7 +2,7 @@
 ## Project Overview:
 The primary objective of this project is to create a captivating and informative animation that explores a specific educational concept. The animation will serve as an educational tool, providing an engaging visual representation to enhance the learning experience for the target audience.
 ### code:
-```
+```py
 import pygame
 import sys
 
@@ -105,5 +105,7 @@ while True:
     pygame.display.flip()
 
     clock.tick(60)
-``
+```
+### output:
+
 

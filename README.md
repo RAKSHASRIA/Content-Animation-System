@@ -108,4 +108,4 @@ while True:
 ```
 ### output:
 
-
+![Local Image](cr2)
